@@ -2,6 +2,8 @@
 
 Este proyecto utiliza un modelo de regresión logística para predecir si un paciente tendrá recurrencia de cáncer de tiroides, basado en variables clínicas como estadios TNM, riesgo y respuesta al tratamiento.
 
+Se utilzaron los datos de https://www.kaggle.com/datasets/aneevinay/thyroid-cancer-recurrence-dataset/data
+
 ## 📁 Contenido
 
 - `thyroid_model.ipynb`: Notebook con todo el análisis
